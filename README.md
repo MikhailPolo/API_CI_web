@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/uviauchu02ku2owm?svg=true)](https://ci.appveyor.com/project/MikhailPolo/aqa-ci-web)
+[![Build status](https://ci.appveyor.com/api/projects/status/6kfuiblu8uf2yse6?svg=true)](https://ci.appveyor.com/project/MikhailPolo/api-ci-web)
